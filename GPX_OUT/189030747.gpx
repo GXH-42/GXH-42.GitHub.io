@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>189030747</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="31.59237" lon="120.278598">
+        <time>2025-05-05T20:42:35.720000Z</time>
+      </trkpt>
+      <trkpt lat="31.592379" lon="120.278527">
+        <time>2025-05-05T20:42:40.674000Z</time>
+      </trkpt>
+      <trkpt lat="31.592318" lon="120.278566">
+        <time>2025-05-05T20:42:53.235000Z</time>
+      </trkpt>
+      <trkpt lat="31.592277" lon="120.278687">
+        <time>2025-05-05T20:43:05.237000Z</time>
+      </trkpt>
+      <trkpt lat="31.592177" lon="120.278853">
+        <time>2025-05-05T20:43:12.247000Z</time>
+      </trkpt>
+      <trkpt lat="31.592036" lon="120.279019">
+        <time>2025-05-05T20:43:18.240000Z</time>
+      </trkpt>
+      <trkpt lat="31.591917" lon="120.279172">
+        <time>2025-05-05T20:43:23.238000Z</time>
+      </trkpt>
+      <trkpt lat="31.591812" lon="120.279143">
+        <time>2025-05-05T20:43:39.247000Z</time>
+      </trkpt>
+      <trkpt lat="31.591811" lon="120.279111">
+        <time>2025-05-05T20:44:18.249000Z</time>
+      </trkpt>
+      <trkpt lat="31.591816" lon="120.279085">
+        <time>2025-05-05T20:45:58.273000Z</time>
+      </trkpt>
+      <trkpt lat="31.591771" lon="120.279106">
+        <time>2025-05-05T20:47:02.246000Z</time>
+      </trkpt>
+      <trkpt lat="31.591791" lon="120.279138">
+        <time>2025-05-05T20:49:35.240000Z</time>
+      </trkpt>
+      <trkpt lat="31.591853" lon="120.279208">
+        <time>2025-05-05T20:51:30.245000Z</time>
+      </trkpt>
+      <trkpt lat="31.591837" lon="120.279152">
+        <time>2025-05-05T20:52:06.241000Z</time>
+      </trkpt>
+      <trkpt lat="31.591794" lon="120.279137">
+        <time>2025-05-05T20:55:09.444000Z</time>
+      </trkpt>
+      <trkpt lat="31.591774" lon="120.279142">
+        <time>2025-05-05T20:57:16.251000Z</time>
+      </trkpt>
+      <trkpt lat="31.591744" lon="120.279102">
+        <time>2025-05-05T20:58:16.258000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

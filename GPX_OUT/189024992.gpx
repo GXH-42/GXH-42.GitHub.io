@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <metadata>
+    <name>行者骑行软件</name>
+    <desc>行者骑行软件</desc>
+    <author>
+      <name>行者骑行软件</name>
+      <link href="http://www.imxingzhe.com">
+        <text>行者骑行软件</text>
+      </link>
+    </author>
+    <keywords>行者骑行软件;轨迹</keywords>
+  </metadata>
+  <trk>
+    <name>行者骑行软件</name>
+    <src>xingzhe</src>
+    <number>189024992</number>
+    <type>Ride</type>
+    <trkseg>
+      <trkpt lat="31.584194" lon="120.290801">
+        <time>2025-05-05T19:49:33.946000Z</time>
+      </trkpt>
+      <trkpt lat="31.584213" lon="120.290801">
+        <time>2025-05-05T19:50:49.518000Z</time>
+      </trkpt>
+      <trkpt lat="31.584217" lon="120.290861">
+        <time>2025-05-05T19:51:06.453000Z</time>
+      </trkpt>
+      <trkpt lat="31.584062" lon="120.290867">
+        <time>2025-05-05T19:51:11.450000Z</time>
+      </trkpt>
+      <trkpt lat="31.58391" lon="120.290866">
+        <time>2025-05-05T19:51:18.314000Z</time>
+      </trkpt>
+      <trkpt lat="31.583852" lon="120.290637">
+        <time>2025-05-05T19:51:29.163000Z</time>
+      </trkpt>
+      <trkpt lat="31.583763" lon="120.290468">
+        <time>2025-05-05T19:51:39.163000Z</time>
+      </trkpt>
+      <trkpt lat="31.583681" lon="120.290436">
+        <time>2025-05-05T19:51:54.167000Z</time>
+      </trkpt>
+      <trkpt lat="31.583797" lon="120.290453">
+        <time>2025-05-05T19:52:07.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.583686" lon="120.290438">
+        <time>2025-05-05T19:52:21.165000Z</time>
+      </trkpt>
+      <trkpt lat="31.58379" lon="120.290383">
+        <time>2025-05-05T19:52:33.163000Z</time>
+      </trkpt>
+      <trkpt lat="31.583695" lon="120.290353">
+        <time>2025-05-05T19:52:44.163000Z</time>
+      </trkpt>
+      <trkpt lat="31.583581" lon="120.290453">
+        <time>2025-05-05T19:52:53.163000Z</time>
+      </trkpt>
+      <trkpt lat="31.58373" lon="120.290383">
+        <time>2025-05-05T19:53:01.169000Z</time>
+      </trkpt>
+      <trkpt lat="31.58392" lon="120.290382">
+        <time>2025-05-05T19:53:07.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.58409" lon="120.290406">
+        <time>2025-05-05T19:53:11.161000Z</time>
+      </trkpt>
+      <trkpt lat="31.584266" lon="120.290462">
+        <time>2025-05-05T19:53:17.164000Z</time>
+      </trkpt>
+      <trkpt lat="31.584446" lon="120.290469">
+        <time>2025-05-05T19:53:26.164000Z</time>
+      </trkpt>
+      <trkpt lat="31.584539" lon="120.290632">
+        <time>2025-05-05T19:53:35.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.584589" lon="120.290868">
+        <time>2025-05-05T19:53:39.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.584542" lon="120.291025">
+        <time>2025-05-05T19:53:44.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.584453" lon="120.291155">
+        <time>2025-05-05T19:53:50.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.584316" lon="120.291283">
+        <time>2025-05-05T19:53:54.164000Z</time>
+      </trkpt>
+      <trkpt lat="31.58416" lon="120.291419">
+        <time>2025-05-05T19:53:58.169000Z</time>
+      </trkpt>
+      <trkpt lat="31.584043" lon="120.29151">
+        <time>2025-05-05T19:54:03.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.583888" lon="120.291581">
+        <time>2025-05-05T19:54:41.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.58384" lon="120.29176">
+        <time>2025-05-05T19:54:52.185000Z</time>
+      </trkpt>
+      <trkpt lat="31.583736" lon="120.291861">
+        <time>2025-05-05T19:55:04.166000Z</time>
+      </trkpt>
+      <trkpt lat="31.583792" lon="120.291968">
+        <time>2025-05-05T19:55:14.169000Z</time>
+      </trkpt>
+      <trkpt lat="31.583904" lon="120.292122">
+        <time>2025-05-05T19:55:18.171000Z</time>
+      </trkpt>
+      <trkpt lat="31.584049" lon="120.292305">
+        <time>2025-05-05T19:55:22.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.584171" lon="120.292496">
+        <time>2025-05-05T19:55:26.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.58433" lon="120.292666">
+        <time>2025-05-05T19:55:30.169000Z</time>
+      </trkpt>
+      <trkpt lat="31.584482" lon="120.292794">
+        <time>2025-05-05T19:55:34.173000Z</time>
+      </trkpt>
+      <trkpt lat="31.584658" lon="120.292876">
+        <time>2025-05-05T19:55:56.178000Z</time>
+      </trkpt>
+      <trkpt lat="31.584799" lon="120.293016">
+        <time>2025-05-05T19:56:03.169000Z</time>
+      </trkpt>
+      <trkpt lat="31.584978" lon="120.293068">
+        <time>2025-05-05T19:56:07.172000Z</time>
+      </trkpt>
+      <trkpt lat="31.585157" lon="120.293018">
+        <time>2025-05-05T19:56:13.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.585281" lon="120.29294">
+        <time>2025-05-05T19:56:18.168000Z</time>
+      </trkpt>
+      <trkpt lat="31.585399" lon="120.292829">
+        <time>2025-05-05T19:56:22.167000Z</time>
+      </trkpt>
+      <trkpt lat="31.585524" lon="120.292706">
+        <time>2025-05-05T19:56:26.174000Z</time>
+      </trkpt>
+      <trkpt lat="31.585636" lon="120.292561">
+        <time>2025-05-05T19:56:30.173000Z</time>
+      </trkpt>
+      <trkpt lat="31.585765" lon="120.29241">
+        <time>2025-05-05T19:56:35.173000Z</time>
+      </trkpt>
+      <trkpt lat="31.585889" lon="120.292276">
+        <time>2025-05-05T19:56:39.173000Z</time>
+      </trkpt>
+      <trkpt lat="31.586035" lon="120.292133">
+        <time>2025-05-05T19:56:43.177000Z</time>
+      </trkpt>
+      <trkpt lat="31.586171" lon="120.291964">
+        <time>2025-05-05T19:56:47.176000Z</time>
+      </trkpt>
+      <trkpt lat="31.586255" lon="120.291822">
+        <time>2025-05-05T19:56:51.174000Z</time>
+      </trkpt>
+      <trkpt lat="31.586376" lon="120.291672">
+        <time>2025-05-05T19:56:55.174000Z</time>
+      </trkpt>
+      <trkpt lat="31.586488" lon="120.291526">
+        <time>2025-05-05T19:56:59.175000Z</time>
+      </trkpt>
+      <trkpt lat="31.586582" lon="120.291395">
+        <time>2025-05-05T19:57:03.171000Z</time>
+      </trkpt>
+      <trkpt lat="31.586706" lon="120.291243">
+        <time>2025-05-05T19:57:07.175000Z</time>
+      </trkpt>
+      <trkpt lat="31.586757" lon="120.290973">
+        <time>2025-05-05T19:57:11.176000Z</time>
+      </trkpt>
+      <trkpt lat="31.586671" lon="120.290765">
+        <time>2025-05-05T19:57:15.174000Z</time>
+      </trkpt>
+      <trkpt lat="31.586558" lon="120.290587">
+        <time>2025-05-05T19:57:19.176000Z</time>
+      </trkpt>
+      <trkpt lat="31.586462" lon="120.29044">
+        <time>2025-05-05T19:57:23.174000Z</time>
+      </trkpt>
+      <trkpt lat="31.586364" lon="120.29028">
+        <time>2025-05-05T19:57:27.176000Z</time>
+      </trkpt>
+      <trkpt lat="31.586286" lon="120.290091">
+        <time>2025-05-05T19:57:31.180000Z</time>
+      </trkpt>
+      <trkpt lat="31.586238" lon="120.289864">
+        <time>2025-05-05T19:57:35.175000Z</time>
+      </trkpt>
+      <trkpt lat="31.586228" lon="120.289638">
+        <time>2025-05-05T19:57:40.178000Z</time>
+      </trkpt>
+      <trkpt lat="31.586207" lon="120.289405">
+        <time>2025-05-05T19:57:44.177000Z</time>
+      </trkpt>
+      <trkpt lat="31.586228" lon="120.289153">
+        <time>2025-05-05T19:57:48.177000Z</time>
+      </trkpt>
+      <trkpt lat="31.586236" lon="120.288928">
+        <time>2025-05-05T19:57:52.176000Z</time>
+      </trkpt>
+      <trkpt lat="31.586234" lon="120.288727">
+        <time>2025-05-05T19:57:56.179000Z</time>
+      </trkpt>
+      <trkpt lat="31.586238" lon="120.288538">
+        <time>2025-05-05T19:58:00.177000Z</time>
+      </trkpt>
+      <trkpt lat="31.586259" lon="120.288324">
+        <time>2025-05-05T19:58:04.170000Z</time>
+      </trkpt>
+      <trkpt lat="31.586278" lon="120.288116">
+        <time>2025-05-05T19:58:08.178000Z</time>
+      </trkpt>
+      <trkpt lat="31.586294" lon="120.2879">
+        <time>2025-05-05T19:58:12.179000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
